@@ -1,0 +1,6 @@
+class Demo {
+public static void main (String [] args){
+System.out.pintln("vandhu Renati");
+System.out.println("vandhu");
+}
+}
